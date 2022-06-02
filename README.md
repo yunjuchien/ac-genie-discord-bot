@@ -1,8 +1,10 @@
 ## AC 小精靈 Discord Bot
 
+![genie-gif](https://github.com/ALPHACamp/ac-genie-discord-bot/blob/master/genie-bot.png)
+
 「24/7 都可以罵鼓勵你的小精靈 Discord Bot」誕生啦！
 
-這是 [ALPHA Camp](https://tw.alphacamp.co) 2022 得年的 【兩週衝刺挑戰｜粽在你心底的 Side Project 的作品之一。
+這是 [ALPHA Camp](https://tw.alphacamp.co) 2022 年的 【兩週衝刺挑戰｜粽在你心底的 Side Project 的作品之一。
 
 
 #### 如何加入新的句子
