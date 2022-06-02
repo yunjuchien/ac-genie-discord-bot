@@ -15,6 +15,7 @@
 - `extra`: 特別兇的罵人的句子，專門給特別調皮的學生
 - `motivation`: 鼓勵人的句子
 
+
 #### 我也想開發自己的 Discord Bot!
 
 請參考 [discord.js](https://discordjs.guide/) 的文件
